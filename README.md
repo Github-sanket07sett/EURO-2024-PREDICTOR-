@@ -5,6 +5,7 @@ This Repository contains statistical modeling, specifically the Poisson distribu
 - [Methodology](#methodology)
 - [SNIPPETS](#snippets)
 - [Key Insights](#key-insights)
+- [Compare Final Match With Opta Analyst](#compare-final-match-with-opta-analyst)
 ## Project Overview
 This project utilizes Poisson distribution to predict the outcomes of Euro 2024 matches. The predictions include potential winners, scorelines, and winning percentages. The analysis is based on historical data and various statistical correlations. The results are compiled and visualized to offer insights into the tournament.
 ## Methodology
