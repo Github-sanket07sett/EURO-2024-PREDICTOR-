@@ -32,6 +32,6 @@ This project utilizes Poisson distribution to predict the outcomes of Euro 2024 
 ![Screenshot 2024-07-15 152702](https://github.com/user-attachments/assets/2d09d104-3cad-4fe7-ba41-855907eeb3e9)
 ![Screenshot 2024-07-15 152628](https://github.com/user-attachments/assets/1133f874-110f-49aa-b707-2388e181844b)
 ### Compare Final match With Opta Analyst
-Predictions are approximately 94.39% close to the given predictions.
+ Model's Predictions are approximately 94.39% close to the Opta analyst predictions.
 ![Screenshot 2024-07-11 120114](https://github.com/user-attachments/assets/47058f61-5ca1-4e0e-83ee-6be2b64d96eb)
 ![Screenshot 2024-07-11 120102](https://github.com/user-attachments/assets/c934a623-998d-488a-afad-14f3f852aa07)![Screenshot 2024-07-15 153033](https://github.com/user-attachments/assets/c9cbc46c-6bc8-423f-8f61-a9a004d6139f)
